@@ -98,8 +98,13 @@ img{
 /* NOTE: All other images will need a class to style the width if you want them a diffrent size */
 
 h1{
+   font-family: 'Nerko One', helvetica, sans-serif;
   text-align: center;
   padding-top: 20px;
+}
+
+h2{
+
 }
 
 footer{
